@@ -9,3 +9,4 @@ How to use:
 modloader="PATH_TO_SCRIPT"  
 *launch the script with ./launch.sh pack, where pack is the name of a pack (without the .pack extension)  
 I might add a windows version and make better config files later but for now it's just for my personal use so -\(-_-)/-  
+*To create a modpack easily, enable/disable the mods you want inside Isaac. Then  just run ./createmodpack.sh name, where name is the name of the modpack you want to create. This "saves" all currently enabled mods to a new pack callde name.pack.
