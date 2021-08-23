@@ -1,6 +1,7 @@
 A minimalistic mod loader for The Binding of Isaac: Repentance
 How to use:
 *Set an environment variable ISAACPATH that contains the path to your Isaac folder (usually either "C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth" or "~/. local/share/Steam/SteamApps/common/The Binding of Isaac Rebirth"
+*See this article for how to do that on windows/other systems: https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html
 *add any modpacks you want to a folder called 'modpacks' in the folder referenced in ISAACPATH:
   *The packs use the following structure:
     *filenames are *.pack
